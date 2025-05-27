@@ -8,7 +8,7 @@ This project performs exploratory data analysis (EDA) on a telecom dataset to un
 - Business-focused insights on churn patterns
 
 ## 📁 Files
-- `telecom_customer_churn_analysis.ipynb`: Main Jupyter Notebook.
+- `telco_customer_churn.ipynb`: Main Jupyter Notebook.
 - `README.md`: Project documentation.
 
 ## 📚 Tools
